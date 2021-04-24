@@ -2,5 +2,5 @@
 console.log('••••••••••••••••');
 console.log('•••Lesson_2•••');
 console.log('Hey Ninjas!');
-console.log('update test w7.29.20');
+console.log('Update test Sat, Apr 24, 2021');
 console.log('••••••••••••••••');
