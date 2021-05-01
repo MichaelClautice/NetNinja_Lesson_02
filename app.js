@@ -3,5 +3,5 @@
 // Lesson 02 - Installing Node JS
 console.log('••••••••••••••••');
 console.log('•••Lesson_2•••');
-console.log('Hey Ninjas!');
+console.log('Hello Ninjas!');
 console.log('••••••••••••••••');
