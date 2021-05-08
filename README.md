@@ -1,8 +1,8 @@
 # NetNinja_Lesson_02
 
-Michael Clautice, Richmond, VA
-NetNinja Lesson_02  Node JS Tutorial for Beginners  
-Lesson 02 - Installing Node JS 
+Michael Clautice, Richmond, VA<br>
+NetNinja Lesson_02  Node JS Tutorial for Beginners<br> 
+Lesson 02 - Installing Node JS<br> 
 
 https://www.youtube.com/watch?v=1US-P13yKVs&amp;list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp&amp;index=2  
 
