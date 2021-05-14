@@ -10,6 +10,6 @@ https://www.youtube.com/watch?v=1US-P13yKVs&amp;list=PL4cUxeGkcC9gcy9lrvMJ75z9ma
 
 • Run a file through NodeJS locally on MacBook.
 
-• To run a file through NodeJS, navigate to the file's directory in the command line, then type 'node filename'.
+• To run a file through NodeJS, navigate to the file's directory in the command line, then type 'node <file>'.
 
 =======
