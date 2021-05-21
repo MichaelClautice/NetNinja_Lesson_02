@@ -1,6 +1,6 @@
 // Michael Clautice, Richmond, VA
-// The Net Ninja - Node JS Tutorial for Beginners 
-// Lesson 02 - Installing Node JS
+// The Net Ninja - NodeJS Tutorial for Beginners 
+// Lesson 02 - Installing NodeJS
 //------
 console.log('••••••••••••••••');
 console.log('•••Lesson 2•••');
